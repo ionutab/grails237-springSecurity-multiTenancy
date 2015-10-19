@@ -2,6 +2,8 @@
 <p>The purpose of this project is to simulate single schema multi tenancy while also taking into consideration per-tenant authentication.</p>
 <p>Spring Security User Details service has been altered and a custom User querying service is used in order to enable authentication by USERNAME OR EMAIL.</p>
 
+Add this to etc/hosts
+
 <p>127.0.0.1	www.demossmt.com</p>
 <p>127.0.0.1	demossmt.com</p>
 <p>127.0.0.1	a.demossmt.com</p>
